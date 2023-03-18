@@ -1,0 +1,13 @@
+ .first_class
+        {
+         color :aquamarine;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-size:32;
+         background-color: beige;
+        }
+        .second_class
+        {
+            color:#3F3FBF;
+            font-family: sans-serif;
+            background-color: steelblue;
+        }
