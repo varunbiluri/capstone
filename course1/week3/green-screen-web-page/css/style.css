@@ -1,10 +1,11 @@
 body {
   background-color: wheat;
-  margin: 30pt;
+  font-family: Verdana;
+  margin: 40px;
 }
 
 canvas {
-  border: 1pt solid dimgray;
+  border: 1px solid #c3c3c3;
   height: 200px;
 }
 
