@@ -8,13 +8,3 @@ function doColor() {
   var colorinput = document.getElementById("clr");
   canvas.style.backgroundColor = colorinput.value;
 }
-
-
-
-
-
-
-
-
-
-
