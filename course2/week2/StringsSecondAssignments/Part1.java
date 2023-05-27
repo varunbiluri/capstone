@@ -119,4 +119,8 @@ public class Part1 {
         test.testFindGene();
         test.testPrintAllGenes();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0ff4be4 ( searching for specific start and stop codons)

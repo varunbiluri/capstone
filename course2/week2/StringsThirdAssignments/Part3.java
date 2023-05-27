@@ -169,4 +169,8 @@ public class Part3 {
         test.testProcessGenes();
         //test.testProcessGenes2();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0ff4be4 ( searching for specific start and stop codons)

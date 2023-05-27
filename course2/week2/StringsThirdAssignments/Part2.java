@@ -75,4 +75,8 @@ public class Part2 {
         test.testCgRatio();
         test.testCountCTG();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0ff4be4 ( searching for specific start and stop codons)
