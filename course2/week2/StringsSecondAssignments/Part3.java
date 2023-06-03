@@ -65,8 +65,5 @@ public class Part3 {
         Part3 test = new Part3();
         test.testCountGenes();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0ff4be4 ( searching for specific start and stop codons)
+

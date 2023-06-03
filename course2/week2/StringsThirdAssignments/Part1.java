@@ -71,8 +71,4 @@ public class Part1 {
         Part1 test = new Part1();
         test.testGetAllGenes();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0ff4be4 ( searching for specific start and stop codons)

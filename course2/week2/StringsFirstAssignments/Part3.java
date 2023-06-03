@@ -42,8 +42,4 @@ public class Part3 {
         Part3 test = new Part3();
         test.testing();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0ff4be4 ( searching for specific start and stop codons)

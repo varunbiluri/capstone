@@ -43,8 +43,4 @@ public class Part2 {
         Part2 test = new Part2();
         test.testHowMany();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0ff4be4 ( searching for specific start and stop codons)
